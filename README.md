@@ -1,5 +1,5 @@
 # 📑 Todo App
-
+This is the backend repo of the project.
 A simple and intuitive Todo App built using Node.js, HTML, CSS, and JavaScript. This application helps users manage their tasks efficiently by adding, editing, and deleting todos.
 
 ## 🚀 Features
