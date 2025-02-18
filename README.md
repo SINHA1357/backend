@@ -52,4 +52,4 @@ This project is licensed under the MIT License.
 
 ---
 
-💻 Made with ❤️ by [Soumyadeep Sinha](https://github.com/SINAH1357)
+💻 Made with ❤️ by [Soumyadeep Sinha](https://github.com/SINHA1357)
